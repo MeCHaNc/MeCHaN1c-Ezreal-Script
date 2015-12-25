@@ -46,6 +46,5 @@ static void Game_OnGameLoad(EventArgs args)
        }
        _menu.AddSubMenu(harrassMenu);
 
-      
        _menu.AddToMainMenu();
-   }
+       }
